@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 156" width="100%" height="100%" role="img" aria-label="Web Design Workflow: Research &amp; UX, Wireframe &amp; UI, Responsive Frontend, Launch &amp; Optimize">
+  <defs>
+    <linearGradient id="wfBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#0B0F19" />
+    </linearGradient>
+    <linearGradient id="wfBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#E879F9" stop-opacity="0.4" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="154" rx="16" fill="url(#wfBg)" stroke="url(#wfBorder)" stroke-width="1.5" />
+
+  <!-- Step 1 -->
+  <g transform="translate(28, 22)">
+    <rect x="0" y="0" width="268" height="112" rx="12" fill="#162033" stroke="#334155" stroke-width="1" />
+    <rect x="18" y="16" width="44" height="22" rx="6" fill="#06B6D4" fill-opacity="0.2" />
+    <text x="40" y="31" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700" fill="#38BDF8">01</text>
+    <text x="18" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">UX Research &amp; Strategy</text>
+    <text x="18" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">User flows, information architecture</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">&amp; conversion-focused wireframes</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M302 78 H315 M310 73 L315 78 L310 83" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 2 -->
+  <g transform="translate(322, 22)">
+    <rect x="0" y="0" width="268" height="112" rx="12" fill="#162033" stroke="#334155" stroke-width="1" />
+    <rect x="18" y="16" width="44" height="22" rx="6" fill="#6366F1" fill-opacity="0.22" />
+    <text x="40" y="31" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700" fill="#818CF8">02</text>
+    <text x="18" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">UI Design &amp; Prototyping</text>
+    <text x="18" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">High-fidelity Figma interfaces,</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">design systems &amp; brand visuals</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M596 78 H609 M604 73 L609 78 L604 83" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 3 -->
+  <g transform="translate(616, 22)">
+    <rect x="0" y="0" width="268" height="112" rx="12" fill="#162033" stroke="#334155" stroke-width="1" />
+    <rect x="18" y="16" width="44" height="22" rx="6" fill="#A855F7" fill-opacity="0.22" />
+    <text x="40" y="31" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700" fill="#C084FC">03</text>
+    <text x="18" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">Responsive Development</text>
+    <text x="18" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">Clean HTML/CSS, Tailwind, React,</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">Next.js &amp; Webflow builds</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M890 78 H903 M898 73 L903 78 L898 83" fill="none" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Step 4 -->
+  <g transform="translate(910, 22)">
+    <rect x="0" y="0" width="262" height="112" rx="12" fill="#162033" stroke="#334155" stroke-width="1" />
+    <rect x="18" y="16" width="44" height="22" rx="6" fill="#10B981" fill-opacity="0.22" />
+    <text x="40" y="31" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700" fill="#34D399">04</text>
+    <text x="18" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15.5" font-weight="700" fill="#F8FAFC">Deploy &amp; Performance</text>
+    <text x="18" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">Fast cloud hosting, SEO readiness</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" fill="#94A3B8">&amp; cross-device polish</text>
+  </g>
+</svg>
